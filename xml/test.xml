@@ -1,0 +1,36 @@
+<Transaction>
+
+	<Output One="test3" out="test4">
+
+		<Authentication one="test1" two="test2">
+
+			<Auth1 test="four"/>
+
+			<Auth2 test2="test"></Auth2>
+			
+			<Request />
+
+		</Authentication>
+		
+		<Test test = "">
+		
+		</Test>
+		
+		<Requests>
+		
+			<Request>
+			
+				<Test>
+				
+					<Request />
+				
+				</Test>
+			
+			</Request>
+			
+		</Requests>
+
+
+	</Output>
+
+</Transaction>
